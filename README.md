@@ -5,3 +5,4 @@ Lucru de laborator in contextul Planificării aplicaţiilor desktop, la fiecare 
 - Laborator 3: https://www.figma.com/design/XvEIml75fULaCnTa82kPZp/Prezentare?t=6bad62B1b7yyEJaT-1
 - Laborator 4: https://www.figma.com/design/1HdOXMoGit1ly9MXiMiHkj/Untitled?t=6bad62B1b7yyEJaT-1
 - Laborator 4: https://www.figma.com/design/Gk3oRflKi0XaKc6h7MmvUL/UIpisici?t=6bad62B1b7yyEJaT-1
+<img width="976" height="691" alt="Screenshot 2025-12-06 201607" src="https://github.com/user-attachments/assets/d1fbf534-a637-4ddb-99e5-d77d97ba8b52" />
