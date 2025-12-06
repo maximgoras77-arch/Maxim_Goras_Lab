@@ -5,3 +5,4 @@ Lucru de laborator in contextul Planificării aplicaţiilor desktop, la fiecare 
 - Laborator 3: https://www.figma.com/design/XvEIml75fULaCnTa82kPZp/Prezentare?t=6bad62B1b7yyEJaT-1
 - Laborator 4: https://www.figma.com/design/1HdOXMoGit1ly9MXiMiHkj/Untitled?t=6bad62B1b7yyEJaT-1
 - Laborator 4: https://www.figma.com/design/Gk3oRflKi0XaKc6h7MmvUL/UIpisici?t=6bad62B1b7yyEJaT-1
+modificare
